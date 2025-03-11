@@ -1,5 +1,3 @@
-# Hi there, I'm Oltean Razvan-Marian! 👋
-
 ## 🚀 About Me
 
 I am a highly motivated third-year Computer Science student at the Technical University of Cluj-Napoca. With a strong foundation in programming, software development, and problem-solving, I am passionate about innovative technologies and continuous learning. My expertise lies mainly in C/C++ and Java programming, but I am always eager to explore new programming languages and tackle challenging projects that enhance my knowledge.
